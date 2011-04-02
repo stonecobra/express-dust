@@ -4,7 +4,7 @@
 
 
 {<html_body}
-    <p>This is my index.dust main body {title}</p>
+    <p>This is my index.dust main body<br /> {title}</p>
 {/html_body}
 
 {<copy}{copy|s}{/copy}
